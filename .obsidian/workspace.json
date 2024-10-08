@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "ff2e7a8ca1ce3a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e311d8af57fa967f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a150786bef4515b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "组会/2024-10/10-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "139b85dcd3f2f91d",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d54e59199f30b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5105237da28518b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec4b799163a4d1b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f2dc2ebde724cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e9723990ac20f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5ac943dbcae9e58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8dff6f5e9e0b545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "组会/2024-10/10-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7092b887686ca8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "组会/2024-10/10-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a47f197884f3ab2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ed37d46e2d5d222",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "组会/2024-10/10-11.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5a150786bef4515b",
+  "lastOpenFiles": [
+    "README.md",
+    "新建 文本文档.txt",
+    "Pasted image 20241008220355.png",
+    "Pasted image 20241008191328.png",
+    "Pasted image 20241008190502.png",
+    "组会/2024-09/09-13.md",
+    "组会/2024-10/10-11.md",
+    "组会/2024-09/09-27.md",
+    "组会/2024-09/09-20.md",
+    "组会/2024-10",
+    "组会/2024-09",
+    "Pasted image 20240918162728.png",
+    "欢迎.md",
+    "组会"
+  ]
+}
