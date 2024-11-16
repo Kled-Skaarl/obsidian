@@ -1,0 +1,4 @@
+- [x] Multi-View Correlation Distillation for Incremental Object Detection ✅ 2024-10-31
+- [ ] When Object Detection Meets Knowledge Distillation: A Survey
+- [x] SCAN: Cross Domain Object Detection with Semantic Conditioned Adaptation. ✅ 2024-10-31
+- [ ] Uncertainty-Aware Contrastive Distillation for Incremental Semantic Segmentation
